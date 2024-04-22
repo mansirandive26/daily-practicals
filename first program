@@ -1,0 +1,19 @@
+public class fir_pro {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		        System.out.println("My Name is : Mansi Randive..!!");
+		        System.out.println("My contact no is : 8956290733");
+		        System.out.println("Location is : Solapur");
+		        System.out.println("My Hobbies is Dancing ...!!!");
+		        
+		        
+		    
+		}
+
+
+	}
+
+
